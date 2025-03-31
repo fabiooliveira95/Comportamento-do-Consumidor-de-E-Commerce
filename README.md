@@ -44,7 +44,7 @@ Jupyter Notebook
 
 🚀 Como Executar
 
-    Clone o repositório:
+   Clone o repositório:
 
     bash
     git clone https://github.com/seu-usuario/ecommerce-analysis.git
