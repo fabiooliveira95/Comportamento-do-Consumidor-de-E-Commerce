@@ -6,49 +6,35 @@ Este projeto realiza uma análise descritiva completa de dados de comportamento 
 📊 Conjunto de Dados
 
 O dataset contém informações sobre:
+Dados demográficos (idade, gênero, renda, estado civil)
+Comportamento de compra (valor, frequência, categoria)
+Fidelidade e satisfação do cliente
+Métodos de pagamento e dispositivos utilizados
 
-    Dados demográficos (idade, gênero, renda, estado civil)
-
-    Comportamento de compra (valor, frequência, categoria)
-
-    Fidelidade e satisfação do cliente
-
-    Métodos de pagamento e dispositivos utilizados
-
-Total de registros: 1.000 clientes
-Variáveis analisadas: 28 colunas
+## Total de registros: 1.000 clientes
+## Variáveis analisadas: 28 colunas
 
 🔍 Principais Insights
 
-    Distribuição equilibrada entre clientes de renda alta (51.5%) e média (48.5%)
+ Distribuição equilibrada entre clientes de renda alta (51.5%) e média (48.5%)
+ Valor médio gasto por compra: R$275,06
+ Frequência média de compra: ~7 vezes por mês
+ Desktop é o dispositivo mais utilizado (35%)
+ PayPal é o método de pagamento mais popular (21.9%)
 
-    Valor médio gasto por compra: R$275,06
+ 🛠️ Tecnologias Utilizadas
 
-    Frequência média de compra: ~7 vezes por mês
+Python 3
 
-    Desktop é o dispositivo mais utilizado (35%)
+Bibliotecas:
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
 
-    PayPal é o método de pagamento mais popular (21.9%)
-
-    🛠️ Tecnologias Utilizadas
-
-    Python 3
-
-    Bibliotecas:
-
-        Pandas
-
-        NumPy
-
-        Matplotlib
-
-        Seaborn
-
-    Jupyter Notebook
-
-    📂 Estrutura do Projeto
-
-    ecommerce-analysis/
+   📂 Estrutura do Projeto
+      ecommerce-analysis/
 * ├── data/
 * │   └── Ecommerce_Consumer_Behavior_Analysis_Data.csv
 * ├── notebooks/
