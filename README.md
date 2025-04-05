@@ -23,15 +23,13 @@ Análise de Comportamento do Consumidor em E-Commerce
    PayPal é o método de pagamento mais popular (21.9%)
 
 🛠️ Tecnologias Utilizadas
-
-   Python 3
-
-   Bibliotecas:
-   Pandas
-   NumPy
-   Matplotlib
-   Seaborn
-   Jupyter Notebook
+   - Jupyter Notebook
+   - Python 3
+   - Bibliotecas:
+   - ``Pandas``
+   - ``NumPy``
+   - ``Matplotlib``
+   - ``Seaborn``
 
 📂 Estrutura do Projeto
 
