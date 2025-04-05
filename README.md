@@ -55,11 +55,10 @@ Análise de Comportamento do Consumidor em E-Commerce
       pip install -r requirements.txt
   ```
 
-  Execute o Jupyter Notebook:
-    
-    bash
+  3.Execute o Jupyter Notebook:
+  ```bash
     jupyter notebook notebooks/consumer_behavior_analysis.ipynb
-
+  ```
 📈 Próximos Passos
 
    Implementar análise de segmentação por perfil demográfico
