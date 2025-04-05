@@ -82,5 +82,5 @@ Contribuições são bem-vindas! Siga os passos:
 
 Para dúvidas ou sugestões, entre em contato:
 
-  Email: Fabiooliveira0067@hotmail.com
-  LinkedIn: https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/
+:Email: Fabiooliveira0067@hotmail.com
+:LinkedIn: https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/
