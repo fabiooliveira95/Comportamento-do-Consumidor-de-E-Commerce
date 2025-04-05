@@ -80,5 +80,7 @@ Contribuições são bem-vindas! Siga os passos:
 
  📧 Contato
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/)
+Fábio Oliveira  
+🔗 [LinkedIn](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/)  
+📧 fabiooliveira0067@gmail.com
 
