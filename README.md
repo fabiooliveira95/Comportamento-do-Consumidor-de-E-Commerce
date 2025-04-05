@@ -80,10 +80,6 @@ Contribuições são bem-vindas! Siga os passos:
 
  📧 Contato
 
-‍💻 Autor
-
-* Fabio Oliveira
-* GitHub: https://github.com/fabiooliveira95
-
+Para dúvidas ou sugestões, entre em contato:
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/)
-* ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
